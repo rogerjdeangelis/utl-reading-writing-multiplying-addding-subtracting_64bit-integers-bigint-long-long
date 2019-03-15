@@ -8,8 +8,12 @@ Reading writing multiplying addding subtracting 64bit integers bigint long long
                                                                                                                   
     Less is more.                                                                                                 
                                                                                                                   
-    Note the macro language is not that slow.                                                                     
-                                                                                                                  
+    Note the macro language is not that slow.    
+    
+    github                                                                                                                  
+    http://tinyurl.com/y2wtmtdz                                                                                             
+    https://github.com/rogerjdeangelis/utl-reading-writing-multiplying-addding-subtracting_64bit-integers-bigint-long-long  
+                                                                                                                                                                                                                                    
     *_                   _                                                                                        
     (_)_ __  _ __  _   _| |_                                                                                      
     | | '_ \| '_ \| | | | __|                                                                                     
